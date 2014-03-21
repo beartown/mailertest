@@ -1,0 +1,3 @@
+2014-03-14 16:01:29 - ERROR --> Unknown parameter:  srcId  Value:  1
+2014-03-14 16:07:44 - ERROR --> Unknown parameter:  srcId  Value:  1
+2014-03-14 16:20:39 - WARN --> Filtered parameter:  userId  Value:  test_u/ser
